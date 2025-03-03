@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'eldorado-api',
         'USER': 'postgres',
-        'PASSWORD': 'root',
+        'PASSWORD': 'Mateuszek1!',
         'HOST': 'localhost',
         'port': '5432',
     }
